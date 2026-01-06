@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/Pantane1/nitram-ai-suite/blob/main/nitram-gen-1767682032947.png" width="32" style="vertical-align: middle;" />
+  <img src="https://github.com/Pantane1/nitram-ai-suite/blob/main/nitram-gen-1767682032947.png" width="32" style="vertical-align: middle;" />
   Nitram AI Suite 🚀
 </h1>
 
